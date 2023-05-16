@@ -21,6 +21,8 @@ There are some principles:
 | vit_large_patch16_384         | 0.53796 | 0.4   |
 | CLIP Interrogator             | 0.45836 | 0.2   |
 
+(Didn't get enough time to search the best ratios before the deadline)
+
 ## Models
 
 Pre-trained models that have more parameters and more relevant pretraining tasks can achieve a higher score, eg. openai/clip-vit-large-patch14 and vit_large_patch16_384.
